@@ -1,0 +1,4 @@
+# ignore all .pdf files
+*.pdf
+id_finance_cc50
+id_finance_cc50.pub
